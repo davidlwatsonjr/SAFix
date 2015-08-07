@@ -1,211 +1,210 @@
-
 {
-	"inputN": 41,
-	"values": [
-		{
-			"replaceWith": "my mom",
-			"replaceWithinWords": false,
-			"toReplace": "broki"
-		},
-		{
-			"replaceWith": "BPFC",
-			"replaceWithinWords": false,
-			"toReplace": "brodin"
-		},
-		{
-			"replaceWith": "wedgied",
-			"replaceWithinWords": false,
-			"toReplace": "swoleshamed"
-		},
-		{
-			"replaceWith": "hurting my feelings",
-			"replaceWithinWords": false,
-			"toReplace": "swoleshaming"
-		},
-		{
-			"replaceWith": "weak",
-			"replaceWithinWords": false,
-			"toReplace": "swole"
-		},
-		{
-			"replaceWith": "mock",
-			"replaceWithinWords": false,
-			"toReplace": "swoleshame"
-		},
-		{
-			"replaceWith": "inferior-assed brethren",
-			"replaceWithinWords": false,
-			"toReplace": "brothers"
-		},
-		{
-			"replaceWith": "my dad's 24 Fitness guest pass",
-			"replaceWithinWords": false,
-			"toReplace": "iron temple"
-		},
-		{
-			"replaceWith": "m'lady",
-			"replaceWithinWords": false,
-			"toReplace": "wheymen"
-		},
-		{
-			"replaceWith": "cum",
-			"replaceWithinWords": false,
-			"toReplace": "whey"
-		},
-		{
-			"replaceWith": "given a whirlie",
-			"replaceWithinWords": false,
-			"toReplace": "swolested"
-		},
-		{
-			"replaceWith": "Canadian girlfriend",
-			"replaceWithinWords": false,
-			"toReplace": "maiden"
-		},
-		{
-			"replaceWith": "Medieval Times",
-			"replaceWithinWords": false,
-			"toReplace": "swolhalla"
-		},
-		{
-			"replaceWith": "cousin who has to take me to the gym",
-			"replaceWithinWords": false,
-			"toReplace": "swolemate"
-		},
-		{
-			"replaceWith": "skelly",
-			"replaceWithinWords": false,
-			"toReplace": "bro"
-		},
-		{
-			"replaceWith": "poptart",
-			"replaceWithinWords": false,
-			"toReplace": "iron"
-		},
-		{
-			"replaceWith": "mean words",
-			"replaceWithinWords": false,
-			"toReplace": "swolehate"
-		},
-		{
-			"replaceWith": "WhatIMutterToMyselfUnderMyBreath",
-			"replaceWithinWords": false,
-			"toReplace": "SwoleAcceptance"
-		},
-		{
-			"replaceWith": "assholes",
-			"replaceWithinWords": false,
-			"toReplace": "brethren"
-		},
-		{
-			"replaceWith": "am a pussy and think that",
-			"replaceWithinWords": false,
-			"toReplace": "fear"
-		},
-		{
-			"replaceWith": "fuck-up",
-			"replaceWithinWords": false,
-			"toReplace": "sin"
-		},
-		{
-			"replaceWith": "month",
-			"replaceWithinWords": false,
-			"toReplace": "moon"
-		},
-		{
-			"replaceWith": "last year",
-			"replaceWithinWords": false,
-			"toReplace": "summer's past"
-		},
-		{
-			"replaceWith": "I must say, guvna",
-			"replaceWithinWords": false,
-			"toReplace": "indeed"
-		},
-		{
-			"replaceWith": "want",
-			"replaceWithinWords": false,
-			"toReplace": "wish"
-		},
-		{
-			"replaceWith": "group",
-			"replaceWithinWords": false,
-			"toReplace": "ranks"
-		},
-		{
-			"replaceWith": "gym",
-			"replaceWithinWords": false,
-			"toReplace": "church"
-		},
-		{
-			"replaceWith": "hey",
-			"replaceWithinWords": false,
-			"toReplace": "praise"
-		},
-		{
-			"replaceWith": "weiner-sniffers",
-			"replaceWithinWords": false,
-			"toReplace": "sisters"
-		},
-		{
-			"replaceWith": "seriously weak",
-			"replaceWithinWords": false,
-			"toReplace": "righteous"
-		},
-		{
-			"replaceWith": "I want",
-			"replaceWithinWords": false,
-			"toReplace": "I come"
-		},
-		{
-			"replaceWith": "non-lift",
-			"replaceWithinWords": false,
-			"toReplace": "prayer"
-		},
-		{
-			"replaceWith": "my",
-			"replaceWithinWords": false,
-			"toReplace": "mine own"
-		},
-		{
-			"replaceWith": "fuck that guy",
-			"replaceWithinWords": false,
-			"toReplace": "be his name"
-		},
-		{
-			"replaceWith": "how to do",
-			"replaceWithinWords": false,
-			"toReplace": "in the ritual of"
-		},
-		{
-			"replaceWith": "hungry skelly",
-			"replaceWithinWords": false,
-			"toReplace": "almighty"
-		},
-		{
-			"replaceWith": "guy who I will want to look like until I realize what progress actually is",
-			"replaceWithinWords": false,
-			"toReplace": "bpfc"
-		},
-		{
-			"replaceWith": "ask",
-			"replaceWithinWords": false,
-			"toReplace": "pray"
-		},
-		{
-			"replaceWith": "comments",
-			"replaceWithinWords": false,
-			"toReplace": "guidance"
-		},
-		{
-			"replaceWith": "Planet Fitness",
-			"replaceWithinWords": false,
-			"toReplace": "temple"
-		},
-		{
-			"replaceWith": "middle schools",
-			"replaceWithinWords": false,
-			"toReplace": "temples"
-		}
-	]
+    "inputN": 41,
+    "values": [
+        {
+            "replaceWith": "my mom",
+            "replaceWithinWords": false,
+            "toReplace": "broki"
+        },
+        {
+            "replaceWith": "BPFC",
+            "replaceWithinWords": false,
+            "toReplace": "brodin"
+        },
+        {
+            "replaceWith": "wedgied",
+            "replaceWithinWords": false,
+            "toReplace": "swoleshamed"
+        },
+        {
+            "replaceWith": "hurting my feelings",
+            "replaceWithinWords": false,
+            "toReplace": "swoleshaming"
+        },
+        {
+            "replaceWith": "weak",
+            "replaceWithinWords": false,
+            "toReplace": "swole"
+        },
+        {
+            "replaceWith": "mock",
+            "replaceWithinWords": false,
+            "toReplace": "swoleshame"
+        },
+        {
+            "replaceWith": "inferior-assed brethren",
+            "replaceWithinWords": false,
+            "toReplace": "brothers"
+        },
+        {
+            "replaceWith": "my dad's 24 Fitness guest pass",
+            "replaceWithinWords": false,
+            "toReplace": "iron temple"
+        },
+        {
+            "replaceWith": "m'lady",
+            "replaceWithinWords": false,
+            "toReplace": "wheymen"
+        },
+        {
+            "replaceWith": "cum",
+            "replaceWithinWords": false,
+            "toReplace": "whey"
+        },
+        {
+            "replaceWith": "given a whirlie",
+            "replaceWithinWords": false,
+            "toReplace": "swolested"
+        },
+        {
+            "replaceWith": "Canadian girlfriend",
+            "replaceWithinWords": false,
+            "toReplace": "maiden"
+        },
+        {
+            "replaceWith": "Medieval Times",
+            "replaceWithinWords": false,
+            "toReplace": "swolhalla"
+        },
+        {
+            "replaceWith": "cousin who has to take me to the gym",
+            "replaceWithinWords": false,
+            "toReplace": "swolemate"
+        },
+        {
+            "replaceWith": "skelly",
+            "replaceWithinWords": false,
+            "toReplace": "bro"
+        },
+        {
+            "replaceWith": "poptart",
+            "replaceWithinWords": false,
+            "toReplace": "iron"
+        },
+        {
+            "replaceWith": "mean words",
+            "replaceWithinWords": false,
+            "toReplace": "swolehate"
+        },
+        {
+            "replaceWith": "WhatIMutterToMyselfUnderMyBreath",
+            "replaceWithinWords": false,
+            "toReplace": "SwoleAcceptance"
+        },
+        {
+            "replaceWith": "assholes",
+            "replaceWithinWords": false,
+            "toReplace": "brethren"
+        },
+        {
+            "replaceWith": "am a pussy and think that",
+            "replaceWithinWords": false,
+            "toReplace": "fear"
+        },
+        {
+            "replaceWith": "fuck-up",
+            "replaceWithinWords": false,
+            "toReplace": "sin"
+        },
+        {
+            "replaceWith": "month",
+            "replaceWithinWords": false,
+            "toReplace": "moon"
+        },
+        {
+            "replaceWith": "last year",
+            "replaceWithinWords": false,
+            "toReplace": "summer's past"
+        },
+        {
+            "replaceWith": "I must say, guvna",
+            "replaceWithinWords": false,
+            "toReplace": "indeed"
+        },
+        {
+            "replaceWith": "want",
+            "replaceWithinWords": false,
+            "toReplace": "wish"
+        },
+        {
+            "replaceWith": "group",
+            "replaceWithinWords": false,
+            "toReplace": "ranks"
+        },
+        {
+            "replaceWith": "gym",
+            "replaceWithinWords": false,
+            "toReplace": "church"
+        },
+        {
+            "replaceWith": "hey",
+            "replaceWithinWords": false,
+            "toReplace": "praise"
+        },
+        {
+            "replaceWith": "weiner-sniffers",
+            "replaceWithinWords": false,
+            "toReplace": "sisters"
+        },
+        {
+            "replaceWith": "seriously weak",
+            "replaceWithinWords": false,
+            "toReplace": "righteous"
+        },
+        {
+            "replaceWith": "I want",
+            "replaceWithinWords": false,
+            "toReplace": "I come"
+        },
+        {
+            "replaceWith": "non-lift",
+            "replaceWithinWords": false,
+            "toReplace": "prayer"
+        },
+        {
+            "replaceWith": "my",
+            "replaceWithinWords": false,
+            "toReplace": "mine own"
+        },
+        {
+            "replaceWith": "fuck that guy",
+            "replaceWithinWords": false,
+            "toReplace": "be his name"
+        },
+        {
+            "replaceWith": "how to do",
+            "replaceWithinWords": false,
+            "toReplace": "in the ritual of"
+        },
+        {
+            "replaceWith": "hungry skelly",
+            "replaceWithinWords": false,
+            "toReplace": "almighty"
+        },
+        {
+            "replaceWith": "guy who I will want to look like until I realize what progress actually is",
+            "replaceWithinWords": false,
+            "toReplace": "bpfc"
+        },
+        {
+            "replaceWith": "ask",
+            "replaceWithinWords": false,
+            "toReplace": "pray"
+        },
+        {
+            "replaceWith": "comments",
+            "replaceWithinWords": false,
+            "toReplace": "guidance"
+        },
+        {
+            "replaceWith": "Planet Fitness",
+            "replaceWithinWords": false,
+            "toReplace": "temple"
+        },
+        {
+            "replaceWith": "middle schools",
+            "replaceWithinWords": false,
+            "toReplace": "temples"
+        }
+    ]
 }
